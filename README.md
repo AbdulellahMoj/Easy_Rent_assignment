@@ -1,2 +1,6 @@
 # Easy_Rent_assignment-
-The Airline Ticket Reservation System simplifies booking and manages passengers efficiently. It utilizes advanced programming for seamless travel. Key classes: Flight, Passenger, Ticket. File I/O reads data, generates confirmations. Advanced techniques manage seat availability, booking operations, ensuring efficiency.
+The Airline Ticket Reservation System streamlines flight booking, passenger management, and reservations for a seamless travel experience. Customers can easily book flights and select seats, while airline staff efficiently handle bookings and passenger lists. This system, built on advanced programming concepts, benefits both passengers and airline personnel.
+
+Key classes such as Flight, Passenger, and Ticket are central to the system's architecture. Flight stores flight details like number, departure and arrival locations, and seat availability. Passenger manages essential details such as name and passport number, while Ticket handles booking information like flight, passenger, seat number, and class.
+
+Comprehensive file I/O operations enable the system to read flight and passenger data from input files and generate booking confirmations and ticket details in output files. Advanced programming techniques, like utilizing a two-dimensional array, manage seat availability and facilitate various booking operations. These operations include flight searches, ticket booking and cancellation, and viewing available flights and specific ticket details, ensuring a smooth and efficient reservation process.
